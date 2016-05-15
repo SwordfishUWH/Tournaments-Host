@@ -1,14 +1,14 @@
-# Tournaments-Host
+<h1># Tournaments-Host</h1>
 
-Start Planning here:
-1. Venue
-2. Dates/Times
-3. Costs
-4. Banquet
-5. Accomodations
-6. Awards
-7. Pool Food
-8. Volunteers
-9. Tournament Format
-10. Invitations
-11. Schedule
+<h3>Start Planning here:</h3><br/>
+1. Venue<br/>
+2. Dates/Times<br/>
+3. Costs<br/>
+4. Banquet<br/>
+5. Accomodations<br/>
+6. Awards<br/>
+7. Pool Food<br/>
+8. Volunteers<br/>
+9. Tournament Format<br/>
+10. Invitations<br/>
+11. Schedule<br/>
